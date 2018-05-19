@@ -1,0 +1,10 @@
+C:\Users\lokpr\source\repos\Clock For Break\Clock For Break\bin\Debug\Clock For Break.exe.config
+C:\Users\lokpr\source\repos\Clock For Break\Clock For Break\bin\Debug\Clock For Break.exe
+C:\Users\lokpr\source\repos\Clock For Break\Clock For Break\bin\Debug\Clock For Break.pdb
+C:\Users\lokpr\source\repos\Clock For Break\Clock For Break\obj\Debug\Clock For Break.csprojAssemblyReference.cache
+C:\Users\lokpr\source\repos\Clock For Break\Clock For Break\obj\Debug\Clock_For_Break.Form1.resources
+C:\Users\lokpr\source\repos\Clock For Break\Clock For Break\obj\Debug\Clock_For_Break.Properties.Resources.resources
+C:\Users\lokpr\source\repos\Clock For Break\Clock For Break\obj\Debug\Clock For Break.csproj.GenerateResource.cache
+C:\Users\lokpr\source\repos\Clock For Break\Clock For Break\obj\Debug\Clock For Break.csproj.CoreCompileInputs.cache
+C:\Users\lokpr\source\repos\Clock For Break\Clock For Break\obj\Debug\Clock For Break.exe
+C:\Users\lokpr\source\repos\Clock For Break\Clock For Break\obj\Debug\Clock For Break.pdb
